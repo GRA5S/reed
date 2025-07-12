@@ -6,8 +6,6 @@
 
 BOM can be found here: https://docs.google.com/spreadsheets/d/1LMt5nb0zBYcN-rrvfRzs9SFn1cj6VajrzAyBk7AmsFQ/edit?usp=sharing
 
-The journal can be found here: {WIP}
-
 The CAD can be found here: https://a360.co/3GtJYN3
 
 # Project Goals:
@@ -15,5 +13,4 @@ The CAD can be found here: https://a360.co/3GtJYN3
 - generally fast
 - <$350
 
-<img src=>
 
