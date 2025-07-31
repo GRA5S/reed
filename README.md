@@ -4,13 +4,4 @@
   <p><strong>Reed: </strong>a tall, slender-leaved <s>plant</s> <em><strong>delta 3D printer</strong></em> of the grass family, which <s>grows in water or on marshy ground.</s> <em><strong>focuses on speed & precision</strong></em></p>
 </div>
 
-BOM can be found here: https://docs.google.com/spreadsheets/d/1LMt5nb0zBYcN-rrvfRzs9SFn1cj6VajrzAyBk7AmsFQ/edit?usp=sharing
-
-The CAD can be found here: https://a360.co/3GtJYN3
-
-# Project Goals:
-- Delta motion system
-- generally fast
-- <$350
-
 
