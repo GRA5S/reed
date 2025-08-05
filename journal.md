@@ -7,7 +7,9 @@ created_at: "2025-07-20"
 
 ---
 
+
 ### day one - june 22
+#### 2 hours total
 it is 8am 
 
 after an all nighter
@@ -30,6 +32,7 @@ i made it bigger (second image) but idk why it looks so bad and i dislike it and
 ---
 
 ### day one part two - june 22
+#### 4 hours total
 i have no clue wtf im doingggg
 
 ok so i made these funky corners and then these ball joints on the linear rails
@@ -46,6 +49,7 @@ i also want to joint the entire thing together so i can like drag it around and 
 ---
 
 ### day one part three - june 22
+#### 9 hours total
 like i said before i want it all to be jointed together 
 
 i have no fucking clue why
@@ -64,7 +68,7 @@ but it works kinda
 ---
 
 ### day two - june 24th
-
+#### 13 hours total
 I made the printhead :P
 
 i used a tz v6 2.0 hotend and a couple 5015 blower fans
@@ -80,7 +84,7 @@ its prolly gonna be bowden instead of direct drive cuz i could not find the spac
 ---
 
 ### day two part two - june 24th
-
+#### 19 hours total
 I attached the printhead to the motion system stuff and mounted the bed
 but then...
 
@@ -100,7 +104,7 @@ also btw you cant see most of the stuff i did but like i swear i did some stuff 
 ---
 
 ### day two part three - june 24th
-
+#### 24 hours total
 I added this cap thing that goes on the top over all the electronics
 
 also a couple spool holders that use some 3d printed threads idk if its good enough to not fall off though
@@ -120,7 +124,7 @@ my friend was getting mad at me for using this font but idk whats wrong with it 
 ---
 
 ### day three - july 1st
-
+#### 27 hours total
 i made this psu mount i think ig
 
 i might be overdoing this wave pattern but i like it so im going to use it everywhere and idc what anybody says
@@ -137,7 +141,7 @@ i think i added some screws, did a bit of coloration and added the mount for the
 ---
 
 ### day four - july 4th
-
+#### 31 hours total
 i did some small changes that i forgot cuz i am retroactivly journalling this but uhh i made these renders and this banner and i think im done now 😁👍
 
 <div align="center">
