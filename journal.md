@@ -5,7 +5,8 @@ description: "A delta 3D printer :)"
 created_at: "2025-07-20"
 ---
 
----
+<h1> Reed journal - 31hrs total</h1>
+
 
 
 ### day one - june 22
