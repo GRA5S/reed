@@ -55,10 +55,3 @@ i honestly have no clue what im doing and i would not trust this to print anythi
 |Grand Total                        |      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |$343.28             |
 
 
-## Wiring Diagram:
-
-cuz i have to do that for highway apparently 
-
-<div align="center">
-  <img alt="" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/dfc2ec05ed118d2367c38ee5f864bef98fdef21f_image.png"></img>
-</div>
